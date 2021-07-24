@@ -1,0 +1,1 @@
+javac C:\Users\Manas\Java_Practice\PowerfulNumbers.java
